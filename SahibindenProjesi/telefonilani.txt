@@ -1,0 +1,18 @@
+************************************************************
+Başlık: Iraktan Yeni Getirildi
+Açıklama: Feci Telefon
+Fiyat: 15000,00
+Marka: Xiaomi
+Model: Redmi Note 8
+Depolama Kapasitesi: 8 GB
+NFC Var mı? Hayır
+Kamera Çözünürlüğü: 10
+************************************************************
+Başlık: Apple Bayiden 15 Pro Max
+Açıklama: 0 Kapalı Kutu
+Fiyat: 85000,00
+Marka: Apple
+Model: Iphone 15 Pro Max
+Depolama Kapasitesi: 1000 GB
+NFC Var mı? Evet
+Kamera Çözünürlüğü: 45

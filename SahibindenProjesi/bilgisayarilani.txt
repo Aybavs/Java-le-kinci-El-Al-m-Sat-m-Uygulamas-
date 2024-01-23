@@ -1,0 +1,27 @@
+************************************************************
+Başlık: 0 Ayarında Bilgisayar
+Açıklama: 4 Ay Garantili 1.5 Yıl Kullanıldı
+Fiyat: 36000,00
+Marka: Casper
+Model: Nirvana
+İşlemci: İntel Phantenium
+RAM: 1 GB
+Depolama Kapasitesi: 500 GB
+************************************************************
+Başlık: Almanyadan Alınmış Bilgisayar
+Açıklama: Kutusu Açık Ama Hiç Kullanılmadı 
+Fiyat: 40000,00
+Marka: Asus
+Model: ROG
+İşlemci: i9-13400h
+RAM: 64 GB
+Depolama Kapasitesi: 2000 GB
+************************************************************
+Başlık: Sahibinden Az Kullanılmış Monster
+Açıklama: Yeni Ayarında
+Fiyat: 25000,00
+Marka: -
+Model: -
+İşlemci: -
+RAM: 0 GB
+Depolama Kapasitesi: 0 GB

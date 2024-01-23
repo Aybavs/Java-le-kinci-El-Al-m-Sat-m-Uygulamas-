@@ -1,0 +1,27 @@
+************************************************************
+Başlık: Dca Holdingden 0 Tripleks Lüks Villa
+Açıklama: Deniz Manzaralı Villa
+Fiyat: 8000000,00
+Metrekare: 500
+Oda Sayısı: 8
+Bina Yaşı: 0
+Bulunduğu Kat: 0
+Eşyalı: Evet
+************************************************************
+Başlık: İstanbul Esenyurtta 3+1 Daire
+Açıklama: Bıçaklanma Garantili
+Fiyat: 3000000,00
+Metrekare: 100
+Oda Sayısı: 3
+Bina Yaşı: 25
+Bulunduğu Kat: 6
+Eşyalı: Hayır
+************************************************************
+Başlık: Sahibininden 1+1
+Açıklama: Turgutlu Merkezde Belediyeye Yakın
+Fiyat: 1000000,00
+Metrekare: 0
+Oda Sayısı: 0
+Bina Yaşı: 0
+Bulunduğu Kat: 0
+Eşyalı: Hayır

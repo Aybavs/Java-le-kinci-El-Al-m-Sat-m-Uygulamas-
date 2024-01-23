@@ -1,0 +1,30 @@
+************************************************************
+Başlık: 1000 Km BMW
+Açıklama: 0 Hasarsız
+Fiyat: 6000000,00
+Marka: Bmw
+Model: M4CS
+Yıl: 2023
+Yakıt Tipi: Benzinli
+Vites Tipi: Otomatik
+Motor Gücü: 1000 HP
+************************************************************
+Başlık: Çıtır Hasarlı Tofaş
+Açıklama: 35. Sahibinden
+Fiyat: 50000,00
+Marka: Tofaş
+Model: SLX
+Yıl: 1983
+Yakıt Tipi: Dizel
+Vites Tipi: 2 İleri 1.5 Geri
+Motor Gücü: 2 HP
+************************************************************
+Başlık: 0 ARABA
+Açıklama: Kazasız
+Fiyat: 2000000,00
+Marka: Mercedes
+Model: e12
+Yıl: 2023
+Yakıt Tipi: dizel
+Vites Tipi: otomatik
+Motor Gücü: 100 HP
